@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="org.jocl:jocl:2.0.0" type="repository">
+    <properties maven-id="org.jocl:jocl:2.0.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jocl-2.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/commons-csv-1.4-bin/commons-csv-1.4/commons-csv-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
