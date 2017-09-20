@@ -124,7 +124,7 @@ public class StarGraphicsCompute {
 
 
         long global_work_size[] = new long[]{numValid};
-        long local_work_size[] = new long[]{1};
+        long local_work_size[] = new long[]{64};
 
 
         clEnqueueNDRangeKernel(commandQueue, kernel, 1, null,
